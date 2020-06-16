@@ -1,0 +1,76 @@
+h1, h2, p{
+    text-align: center; /* selector de grupo */
+}
+
+h1 {
+    color: rgb(138, 43, 226);
+    font-family: Verdana;
+    background-color: rgba(160, 234, 236, 0.5);
+    padding: 15px;
+    text-align: center;
+    border: 1px solid rgb(140, 144, 194);
+   
+}
+p{
+   color: #000000;
+   font-family: Arial; 
+}
+h2 {
+    color: rgb(255, 0, 170);
+    font-family: Arial;
+    background-color: rgba(160, 234, 236, 0.5);
+    padding: 15px;
+    text-align: center;
+    border: 1px solid rgb(140, 144, 194); /* cuadro de texto */
+    
+}
+.audio {
+    color: rgb(138, 44, 226);
+    font-family: 'Helvetica Neue';
+    text-align: left;
+}
+.multi{
+    color: rgb(138, 43, 226);
+    font-family: 'Helvetica Neue';
+    text-align: right;
+}
+.color5{ /* Hipervinculo inicio */
+    color: rgb(138, 43, 226);
+    font-family: 'Helvetica Neue';
+    text-align: center;
+}
+.part1{
+    text-align: left;
+}
+
+.part2{
+    text-align: center;
+}
+
+.part3{
+    text-align: right;
+}
+
+#part1{
+    background-color: rgba(97, 213, 248, 0.3);
+    margin: 30px;
+    padding-top:30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+#part2{
+    background-color: rgba(42, 178, 219, 0.3);
+    margin: 25px;
+    padding-top:25 px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+#part3{
+    background-color: rgba(0, 190, 248, 0.3);
+    margin: 25px;
+    padding:25 px;
+    
+}
+
